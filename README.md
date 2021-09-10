@@ -9,7 +9,7 @@ Eu sou Desenvolvedor (Modile & Back-end)
 </div>
   
   ##
-  <h3>Linguagens:</h3>
+  <h3>Linguagens / Lenguagens</h3>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
@@ -17,6 +17,18 @@ Eu sou Desenvolvedor (Modile & Back-end)
     <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+
+  ##
+  <h3>Redes Sociais / Socials Networks</h3>
+  <div> 
+  	<a href="https://www.linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  	<a href = "mailto:rodrigo.amora.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  	<a href="https://www.twitter.com/RodrigoAmora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
   </div>
 <!--
 **RodrigoAmora/RodrigoAmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
