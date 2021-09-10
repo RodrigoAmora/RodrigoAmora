@@ -1,4 +1,4 @@
-### Olá, eu Rodrigo Amora 👋
+### Olá, eu Rodrigo Amora 😀
 
 Eu sou Desenvolvedor (Modile & Back-end) 
 
