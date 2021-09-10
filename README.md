@@ -1,4 +1,4 @@
-### Olá, eu Rodrigo Amora 😀
+### Olá, eu sou Rodrigo Amora 😀 // Hello, I'm Rodrigo Amora 😀
 
 Eu sou Desenvolvedor (Modile & Back-end) 
 
