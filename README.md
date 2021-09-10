@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá, eu Rodrigo Amora 👋
 
+Eu sou Desenvolvedor (Modile & Back-end) 
 <!--
 **RodrigoAmora/RodrigoAmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
