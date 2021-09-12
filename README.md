@@ -1,7 +1,7 @@
 ### Olá, eu sou Rodrigo Amora 😀 // Hello, I'm Rodrigo Amora 😀
 
-- Desenvolvedor Back-end / Back-End Software Developer
-- DesenvolvedorMobile / Mobile Apps Developer (Android & iOS)
+- Desenvolvedor Back-End / Back-End Software Developer
+- Desenvolvedor Mobile / Mobile Apps Developer (Android & iOS)
 
   <div>
     <a href="https://github.com/RodrigoAmora">
