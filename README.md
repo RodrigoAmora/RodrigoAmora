@@ -1,7 +1,7 @@
-### Olá, eu sou Rodrigo Amora 😀 // Hello, I'm Rodrigo Amora 😀
+### Hello, I'm Rodrigo Amora 😀 // Olá, eu sou Rodrigo Amora 😀
 
-- Desenvolvedor Back-End / Back-End Software Developer
-- Desenvolvedor Mobile / Mobile Apps Developer (Android & iOS)
+- Back-End Software Developer / Desenvolvedor Back-End
+- Mobile Apps Developer (Android & iOS) / Desenvolvedor Mobile (Android & iOS)
 
   <div>
     <a href="https://github.com/RodrigoAmora">
@@ -10,7 +10,7 @@
   </div>
   
   ##
-  <h3>Linguagens / Languages</h3>
+  <h3> Languages / Linguagens</h3>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
@@ -22,7 +22,7 @@
   </div>
 
   ##
-  <h3>Redes Sociais / Social Networks</h3>
+  <h3>Social Networks / Redes Sociais</h3>
   <div> 
   	<a href="https://www.linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
