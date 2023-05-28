@@ -8,6 +8,7 @@ I'm certified CSM by Srcum Alliance since 2016.
 In my free time, I like read books and watch movies and series.
 
 <hr>
+
 ### Olá, eu sou Rodrigo Amora 😀
 
 - Desenvolvedor Back-End / Desenvolvedor Mobile (Android & iOS)
@@ -15,6 +16,9 @@ In my free time, I like read books and watch movies and series.
 Trabalho com Desenvolvimento Web desde 2009 e Desenvolvimento Mobile desde 2011.
 Sou certificado CSM pela Srcum Alliance desde 2016.
 
+Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
+
+<hr>
 
   <div>
     <a href="https://github.com/RodrigoAmora">
