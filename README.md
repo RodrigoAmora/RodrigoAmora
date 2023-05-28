@@ -1,4 +1,4 @@
-### Hello, I'm Rodrigo Amora 😀 // Olá, eu sou Rodrigo Amora 😀
+### Hello, I'm Rodrigo Amora 😀
 
 - Back-End Developer / Mobile Developer (Android & iOS)
 
@@ -8,6 +8,7 @@ I'm certified CSM by Srcum Alliance since 2016.
 In my free time, I like read books and watch movies and series.
 
 <hr>
+### Olá, eu sou Rodrigo Amora 😀
 
 - Desenvolvedor Back-End / Desenvolvedor Mobile (Android & iOS)
 
