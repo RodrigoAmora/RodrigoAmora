@@ -1,7 +1,19 @@
 ### Hello, I'm Rodrigo Amora 😀 // Olá, eu sou Rodrigo Amora 😀
 
-- Back-End Software Developer / Desenvolvedor Back-End
-- Mobile Apps Developer (Android & iOS) / Desenvolvedor Mobile (Android & iOS)
+- Back-End Developer / Mobile Developer (Android & iOS)
+
+I have been working with Web Development since 2009 and with Mobile Development since 2011.
+I'm certified CSM by Srcum Alliance since 2016.
+
+In my free time, I like read books and watch movies and series.
+
+<hr>
+
+- Desenvolvedor Back-End / Desenvolvedor Mobile (Android & iOS)
+
+Trabalho com Desenvolvimento Web desde 2009 e Desenvolvimento Mobile desde 2011.
+Sou certificado CSM pela Srcum Alliance desde 2016.
+
 
   <div>
     <a href="https://github.com/RodrigoAmora">
@@ -31,7 +43,7 @@
   ##
   <h3>Social Networks / Redes Sociais</h3>
   <div> 
-  	<a href="https://www.linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  	<a href="https://www.linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitter.com/RodrigoAmora" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href = "mailto:rodrigo.amora.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
