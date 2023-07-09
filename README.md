@@ -7,7 +7,6 @@ I'm certified CSM by Srcum Alliance since 2016.
 
 In my free time, I like read books and watch movies and series.
 
-<hr>
 
 ### Olá, eu sou Rodrigo Amora 😀
 
@@ -18,13 +17,7 @@ Sou certificado CSM pela Srcum Alliance desde 2016.
 
 Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
-<hr>
 
-  <div>
-    <a href="https://github.com/RodrigoAmora">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
-  </div>
   
   ##
   <h3> Languages / Linguagens</h3>
@@ -54,8 +47,17 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   	<a href = "mailto:rodrigo.amora.freitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  ##
+  <hr>
 
+  <div>
+    <a href="https://github.com/RodrigoAmora">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
+  </div>
+
+  ##
+  <hr>
+  
   ![Snake animation](https://github.com/RodrigoAmora/RodrigoAmora/blob/output/github-contribution-grid-snake.svg)
 
   ##
