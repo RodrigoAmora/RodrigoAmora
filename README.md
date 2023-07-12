@@ -53,7 +53,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 <hr>
 
-<b> Where find me 🖖 </b>
+<h3> Where find me 🖖 </h3>
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
