@@ -31,9 +31,12 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="RodrigoAmora-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="RodrigoAmora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="RodrigoAmora-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+</div>
 
-  <br><br>
+##
 
+<b> Mobile Development 📱 </b>
+<div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
   <img align="center" alt="RodrigoAmora-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
