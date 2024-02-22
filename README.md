@@ -50,7 +50,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <b> Frameworks 🔧 </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img align="center" alt="RodrigoAmora-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="RodrigoAmora-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   <img align="center" alt="RodrigoAmora-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
   <img align="center" alt="RodrigoAmora-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="RodrigoAmora-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
@@ -60,7 +60,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 <b> Databases 🗄️ </b>
 <div style="display: inline_block">
-  <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="RodrigoAmora-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
 </div>
 
