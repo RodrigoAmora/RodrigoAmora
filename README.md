@@ -72,6 +72,8 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   
   <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Rodrigo-Postman" height="30" width="40"/>
   
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Rodrigo-Swagger" height="30" width="40"/>
+
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Rodrigo-Intellij" height="30" width="40" />
 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="RodrigoAndroidStudio" height="30" width="40" />
