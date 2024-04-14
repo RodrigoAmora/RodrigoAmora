@@ -70,8 +70,6 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="RodrigoAmora-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
 
   <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-
-  <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
 ##
@@ -100,6 +98,8 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Rodrigo-xcode" height="30" width="40" />
 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Rodrigo-jenkins" height="30" width="40" />
+
+  <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
 <hr>
