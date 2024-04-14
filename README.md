@@ -29,11 +29,18 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <b> Languages 💻 </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="RodrigoAmora-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+  
+  <img align="center" alt="RodrigoAmora-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/
+  master/icons/swift/swift-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-ObjC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" />
+  
   <img align="center" alt="RodrigoAmora-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </div>
 
@@ -42,6 +49,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <b> Mobile Development 📱 </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
+  
   <img align="center" alt="RodrigoAmora-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
 
@@ -50,10 +58,20 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <b> Frameworks 🔧 </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+
+  <img align="center" alt="RodrigoAmora-hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
+
   <img align="center" alt="RodrigoAmora-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-  <img align="center" alt="RodrigoAmora-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  
+  <img align="center" alt="RodrigoAmora-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  
   <img align="center" alt="RodrigoAmora-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+
+  <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+
+  <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
 ##
@@ -61,6 +79,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <b> Databases 🗄️ </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+
   <img align="center" alt="RodrigoAmora-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
 </div>
 
@@ -71,16 +90,16 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Roddrigo-Git" height="30" width="40" />
   
   <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Rodrigo-Postman" height="30" width="40"/>
-  
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Rodrigo-Swagger" height="30" width="40"/>
 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Rodrigo-Intellij" height="30" width="40" />
+
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="Rodrigo-pycharm" height="30" width="40" />
 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="RodrigoAndroidStudio" height="30" width="40" />
   
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Rodrigo-xcode" height="30" width="40" />
-  
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Rodrigo-Bootstrap" height="30" width="40" />
+
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Rodrigo-jenkins" height="30" width="40" />
 </div>
 
 <hr>
@@ -89,9 +108,6 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <br>
-	<a href="https://twitter.com/RodrigoAmora" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%1db954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
