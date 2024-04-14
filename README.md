@@ -32,8 +32,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   
   <img align="center" alt="RodrigoAmora-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   
-  <img align="center" alt="RodrigoAmora-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/
-  master/icons/swift/swift-original.svg" />
+  <img align="center" alt="RodrigoAmora-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
   
   <img align="center" alt="RodrigoAmora-ObjC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" />
   
