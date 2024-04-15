@@ -86,7 +86,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 <div style="display: inline_block">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Roddrigo-Git" height="30" width="40" />
   
-  <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Rodrigo-Postman" height="30" width="40"/>
+  <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Rodrigo-Intellij" height="30" width="40" />
 
