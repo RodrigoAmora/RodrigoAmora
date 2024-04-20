@@ -63,6 +63,8 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="RodrigoAmora-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   
   <img align="center" alt="RodrigoAmora-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+
+  <img align="center" alt="RodrigoAmora-Djangorest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" />
   
   <img align="center" alt="RodrigoAmora-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   
