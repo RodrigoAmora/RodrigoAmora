@@ -80,6 +80,8 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
   <img align="center" alt="RodrigoAmora-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
+
+  <img align="center" alt="RodrigoAmora-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
 </div>
 
 ##
