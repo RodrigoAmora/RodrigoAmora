@@ -121,7 +121,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-<hr>
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
