@@ -112,13 +112,13 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 </div>
 
 <hr>
-
+<!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAmora&theme=chartreuse_dark) |
 | :-: | :-: | 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoAmora&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: | 
-
+-->
 <div>
   <a href="https://github.com/RodrigoAmora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
