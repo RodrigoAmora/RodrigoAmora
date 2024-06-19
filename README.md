@@ -1,5 +1,5 @@
 ### About me 📌
-
+<!--
 Hello, I'm Rodrigo Amora. <br>
 
 I'm a Back-End Developer and Native Mobile Developer (Android & iOS).
@@ -10,7 +10,7 @@ I'm certified CSM by Srcum Alliance since 2016.
 In my free time, I like read books and watch movies and series.
 
 ##
-
+-->
 Olá, eu sou Rodrigo Amora. <br>
 
 Eu sou Desenvolvedor Back-End e Desenvolvedor Mobile Nativo (Android & iOS).
@@ -105,8 +105,6 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
-<hr>
-
 <h3> Where find me 🖖 </h3>
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -114,6 +112,12 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 </div>
 
 <hr>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAmora&theme=chartreuse_dark) |
+| :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoAmora&theme=chartreuse_dark&utcOffset=8) |
+| :-: | :-: | :-: | 
 
 <div>
   <a href="https://github.com/RodrigoAmora">
