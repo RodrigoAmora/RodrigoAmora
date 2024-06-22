@@ -1,4 +1,5 @@
 ### About me 📌
+---------------
 <!--
 Hello, I'm Rodrigo Amora. <br>
 
@@ -27,6 +28,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 </div>
 
 ### Skills 👨🏽‍💻
+-------------
 <b> Languages </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -121,12 +123,14 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 </div>
 
 ### Where find me 🖖
+--------------------
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ### Github Stats :bar_chart:
+----------------------------
 <div align="center">
   <a href="https://github.com/RodrigoAmora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
