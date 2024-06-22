@@ -1,4 +1,5 @@
 ### About me 📌
+---------------
 <!--
 Hello, I'm Rodrigo Amora. <br>
 
@@ -105,13 +106,31 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
+##
+
+<b> Devops </b>
+<div style="display: inline_block">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dokcer-original.svg" />
+</div>
+
+##
+
+<b> Cloud </b>
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/c3c35b3635976fa5a40891d95aaeb8f3e475b1ee789067b6a5f04212e239afe3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
+
+  <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
+</div>
+
 <h3> Where find me 🖖 </h3>
+---------------------------
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <h3> Github Stats :bar_chart: </h3>
+-----------------------------------
 <div align="center">
   <a href="https://github.com/RodrigoAmora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
