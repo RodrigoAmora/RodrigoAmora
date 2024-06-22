@@ -20,13 +20,15 @@ Sou certificado CSM pela Srcum Alliance desde 2016.
 
 Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
-
-  
-<hr>
+<div align="center">
+  <a href="https://github.com/newtonneto">
+    <img alt="GitHub" src="https://visitor-badge.laobi.icu/badge?page_id=newtonneto"/>
+  </a>
+</div>
 
 <h3> Skills 👨🏽‍💻 </h3>
 
-<b> Languages 💻 </b>
+<b> Languages </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   
@@ -45,7 +47,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Mobile Development 📱 </b>
+<b> Mobile Development </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
   
@@ -54,7 +56,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Frameworks 🔧 </b>
+<b> Frameworks </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
@@ -75,18 +77,16 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Databases 🗄️ </b>
+<b> Databases </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
   <img align="center" alt="RodrigoAmora-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
-
-  <img align="center" alt="RodrigoAmora-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
 </div>
 
 ##
 
-<b> Tools 🔧 </b>
+<b> Tools </b>
 <div style="display: inline_block">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Roddrigo-Git" height="30" width="40" />
   
@@ -111,9 +111,8 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
-
-<div>
+<h3> Github Stats :bar_chart: </h3>
+<div align="center">
   <a href="https://github.com/RodrigoAmora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
