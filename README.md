@@ -150,7 +150,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <!--
     ![snake gif](https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg" alt="RodrigoAmora)
   -->
-  ![snake gif](https://github.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg" alt="RodrigoAmora)
+  ![snake gif](https://github.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg)
 </p>
 
 <!--
