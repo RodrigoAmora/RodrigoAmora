@@ -146,9 +146,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 -->
 
 
-<!--
 ![Snake animation](https://github.com/RodrigoAmora/RodrigoAmora/blob/output/github-contribution-grid-snake.svg)
--->
 
 <!--
 	Links:
