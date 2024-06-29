@@ -139,7 +139,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </picture>
  -->
-   ![snake gif]("https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg")
+   ![Snake animation](https://github.com/RodrigoAmora/RodrigoAmora/blob/output/github-contribution-grid-snake.svg)
   </p>
 
   <a href="https://github.com/RodrigoAmora">
