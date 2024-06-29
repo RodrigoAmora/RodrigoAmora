@@ -4,8 +4,8 @@ name: Snake Game
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+      # Será atualizado a cada 3 horas.
+    - cron: "0 */3 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
@@ -20,12 +20,13 @@ jobs:
       - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: ROdrigoAmora/snk@master
         id: snake-gif
         with:
-          github_user_name: RodrigoAmora
+          github_user_name: ${{ github.repository_owner }}
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
 
       - run: git status
 
