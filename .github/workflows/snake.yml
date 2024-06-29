@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate Snake
 
 on:
   schedule: # execute every 3 hours
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # Snake Animation
-      - uses: RodrigoAmora/snake/svg-only@v3
+      - uses: RodrigoAmora/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
