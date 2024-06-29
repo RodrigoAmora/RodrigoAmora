@@ -141,7 +141,6 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
  -->
     <source media="(prefers-color-scheme: dark)">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-drak.svg">
-    </source>
     <source media="(prefers-color-scheme: light)">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </source>
