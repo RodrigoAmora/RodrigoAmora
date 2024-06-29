@@ -10,8 +10,10 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+
       # Snake Animation
-      - uses: RodrigoAmora/checkout@v3
+      - uses: ${{ github.repository_owner }}
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
