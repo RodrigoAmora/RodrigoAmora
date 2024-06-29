@@ -29,7 +29,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ### Skills 👨🏽‍💻
 -------------
-<b> Languages </b>
+<b> Languages: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   
@@ -48,7 +48,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Mobile Development </b>
+<b> Mobile Development: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
   
@@ -57,7 +57,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Frameworks </b>
+<b> Frameworks: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
@@ -78,7 +78,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Databases </b>
+<b> Databases: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
@@ -87,7 +87,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Tools </b>
+<b> Tools: </b>
 <div style="display: inline_block">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Roddrigo-Git" height="30" width="40" />
   
@@ -106,7 +106,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Devops </b>
+<b> Devops: </b>
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
@@ -115,7 +115,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 
 ##
 
-<b> Cloud </b>
+<b> Cloud: </b>
 <div style="display: inline_block">
   <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/c3c35b3635976fa5a40891d95aaeb8f3e475b1ee789067b6a5f04212e239afe3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
 
@@ -133,11 +133,11 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 ----------------------------
 <div align="center">
   <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+    </picture>
   </p>
 
   <a href="https://github.com/RodrigoAmora">
