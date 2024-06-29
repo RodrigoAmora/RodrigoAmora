@@ -133,17 +133,17 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 ----------------------------
 <div align="center">
   <p>
-<!--     <picture>
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </picture>
- -->
-    <source media="(prefers-color-scheme: dark)">
+ 
+<!--     <source media="(prefers-color-scheme: dark)">
       <img alt="Snake" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)">
       <img alt="Snake" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-    </source>
+    </source> -->
   </p>
 
   <a href="https://github.com/RodrigoAmora">
