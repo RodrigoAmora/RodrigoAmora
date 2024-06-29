@@ -1,4 +1,4 @@
-name: generate animation
+name: snake animation
 
 on:
   # run automatically every 3 hours
@@ -34,7 +34,7 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: RodrigoAmora/ghaction-github-pages@v3.1.0
+        uses: RodrigoAmora/RodrigoAmora
         with:
           target_branch: output
           build_dir: dist
