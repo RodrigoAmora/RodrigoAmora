@@ -28,6 +28,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
 </div>
 
 <h3>Skills 👨🏽‍💻</h3>
+------------------
 <b> Languages: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
