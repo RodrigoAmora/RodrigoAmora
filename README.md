@@ -1,5 +1,4 @@
-### About me 📌
----------------
+## 👋 Hi, I'm Rodrigo
 <!--
 Hello, I'm Rodrigo Amora. <br>
 
@@ -12,24 +11,20 @@ In my free time, I like read books and watch movies and series.
 
 ##
 -->
-Olá, eu sou Rodrigo Amora. <br>
+I'm a Back-End Developer and Native Mobile Developer (Android & iOS).
 
-Eu sou Desenvolvedor Back-End e Desenvolvedor Mobile Nativo (Android & iOS).
+I have been working with Web Development since 2009 and with Mobile Development since 2011.
+I'm certified CSM by Srcum Alliance since 2016.
 
-Trabalho com Desenvolvimento Web desde 2009 e Desenvolvimento Mobile desde 2011.
-Sou certificado CSM pela Srcum Alliance desde 2016.
+In my free time, I like read books and watch movies and series.
 
-Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
+## 📚 Summary
+- Backend-end Software Developer.
+- Native Mobile Developer (Android & iOS).
+- Specialized in creating efficient infrastructures and robust APIs.
+- Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
 
-<div align="center">
-  <a href="https://github.com/newtonneto">
-    <img alt="GitHub" src="https://visitor-badge.laobi.icu/badge?page_id=newtonneto"/>
-  </a>
-</div>
-
-<h3>Skills 👨🏽‍💻</h3>
-
-##
+## 👨🏽‍💻 Skills
 
 <b> Languages: </b>
 <div style="display: inline_block">
@@ -124,15 +119,13 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
 </div>
 
-### Where find me 🖖
---------------------
+## 🖖 Where find me
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Github Stats :bar_chart:
-----------------------------
+## Github Stats :bar_chart:
 <div align="center">
   <p>
     <picture>
@@ -141,19 +134,23 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </picture>
   </p>
+
+  ##
+
+  <a href="https://github.com/RodrigoAmora">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
+  </a>
+
+  ##
+
+  ![](./profile-3d-contrib/profile-gitblock.svg)
+
+  ##
+  <a href="https://github.com/RodrigoAmora">
+    <img alt="GitHub" src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoAmora"/>
+  </a>
 </div>
-
-##
-
-<a href="https://github.com/RodrigoAmora">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
-</a>
-
-##
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAmora&theme=chartreuse_dark) |
 | :-: | :-: | 
