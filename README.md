@@ -147,8 +147,9 @@ In my free time, I like read books and watch movies and series.
   ![](./profile-3d-contrib/profile-gitblock.svg)
 
   ##
+  <b>Visitors:</b>
   <a href="https://github.com/RodrigoAmora">
-    <img alt="GitHub" src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoAmora"/>
+    <img alt="GitHub" src="https://profile-counter.glitch.me/RodrigoAmora/count.svg?"/>
   </a>
 </div>
 <!--
