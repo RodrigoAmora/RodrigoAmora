@@ -3,9 +3,8 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 24 hours.
 
 on:
-  schedule:
-    # every 24 hours at 7:17 Uhr
-    - cron: "0 */3 * * *"
+  schedule: # execute every 3 hours
+    - cron: "* */3 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
