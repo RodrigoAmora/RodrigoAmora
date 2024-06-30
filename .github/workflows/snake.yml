@@ -1,7 +1,6 @@
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 24 hours.
-
+# Controls when the action will run. This action runs every 3 hours.
 on:
   schedule: # execute every 3 hours
     - cron: "* */3 * * *"
