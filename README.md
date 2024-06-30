@@ -27,8 +27,7 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
   </a>
 </div>
 
-### Skills 👨🏽‍💻
--------------
+<h3>Skills 👨🏽‍💻</h3>
 <b> Languages: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -138,19 +137,19 @@ Em meu tempo livre, eu gosto de ler livros e assistir filmes e séries.
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </picture>
- 
-<!--     <source media="(prefers-color-scheme: dark)">
-      <img alt="Snake" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)">
-      <img alt="Snake" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-    </source> -->
   </p>
-
-  <a href="https://github.com/RodrigoAmora">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
-  </a>
 </div>
+
+##
+
+<a href="https://github.com/RodrigoAmora">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
+</a>
+
+##
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAmora&theme=chartreuse_dark) |
