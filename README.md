@@ -131,7 +131,7 @@ In my free time, I like read books and watch movies and series.
 
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-gitblock.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
     </picture>
@@ -142,7 +142,7 @@ In my free time, I like read books and watch movies and series.
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
       <img alt="github contribution grid snake animation" src="./profile-3d-contrib/profile-gitblock.svg">
     </picture>
   </p>
