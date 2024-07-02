@@ -11,21 +11,16 @@ In my free time, I like read books and watch movies and series.
 
 ##
 -->
-I'm a Back-End Developer and Native Mobile Developer (Android & iOS).
-
+I'm a Back-End Developer and Native Mobile Developer (Android & iOS).<br>
 I have been working with Web Development since 2009 and with Mobile Development since 2011.
-I'm certified CSM by Srcum Alliance since 2016.
 
 In my free time, I like read books and watch movies and series.
 
 ## 📚 Summary
 - Backend-end Software Developer.
 - Native Mobile Developer (Android & iOS).
-- Specialized in creating efficient infrastructures and robust APIs.
-- Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
 
 ## 👨🏽‍💻 Skills
-
 <b> Languages: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -125,18 +120,8 @@ In my free time, I like read books and watch movies and series.
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## Github Stats :bar_chart:
+## :bar_chart: Github Stats
 <div align="center">
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
-    </picture>
-  </p>
-
-  ##
-
   <a href="https://github.com/RodrigoAmora">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
@@ -144,9 +129,26 @@ In my free time, I like read books and watch movies and series.
 
   ##
 
-  ![](./profile-3d-contrib/profile-gitblock.svg)
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-gitblock.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
 
   ##
+
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAmora/RodrigoAmora/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="./profile-3d-contrib/profile-gitblock.svg">
+    </picture>
+  </p>
+
+  ##
+
   <b>Visitors:</b>
   <br>
   <a href="https://github.com/RodrigoAmora">
