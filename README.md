@@ -115,7 +115,7 @@ In my free time, I like read books and watch movies and series.
 
 <b> Cloud: </b>
 <div style="display: inline_block">
-  <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/c3c35b3635976fa5a40891d95aaeb8f3e475b1ee789067b6a5f04212e239afe3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
 
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
 </div>
@@ -124,6 +124,7 @@ In my free time, I like read books and watch movies and series.
 <div> 
 	<a href="https://linkedin.com/in/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/rodrigoamora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/RodrigoAmora" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%53ECEC?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
 ## :bar_chart: Github Stats
