@@ -192,10 +192,3 @@ In my free time, I like read books and watch movies and series.
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoAmora&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: | 
 -->
-
-
-<!--
-	Links:
-	dev.to - https://dev.to/
-	shields.io - https://shields.io/
--->
