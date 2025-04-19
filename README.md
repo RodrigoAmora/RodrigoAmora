@@ -1,16 +1,4 @@
 ## 👋 Hi, I'm Rodrigo
-<!--
-Hello, I'm Rodrigo Amora. <br>
-
-I'm a Back-End Developer and Native Mobile Developer (Android & iOS).
-
-I have been working with Web Development since 2009 and with Mobile Development since 2011.
-I'm certified CSM by Srcum Alliance since 2016.
-
-In my free time, I like read books and watch movies and series.
-
-##
--->
 💻 Backend-end Software Developer | 📱 Native Mobile Developer (Android & iOS)
 <hr>
 I'm a Back-End Developer and Native Mobile Developer (Android & iOS).<br>
