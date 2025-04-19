@@ -173,6 +173,7 @@ In my free time, I like read books and watch movies and series.
     <img alt="GitHub" src="https://profile-counter.glitch.me/RodrigoAmora/count.svg?"/>
   </a>
 </div>
+
 <!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoAmora&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoAmora&theme=chartreuse_dark) |
 | :-: | :-: | 
