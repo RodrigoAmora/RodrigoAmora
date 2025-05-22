@@ -123,12 +123,6 @@ In my free time, I like read books and watch movies and series.
 
 ## :bar_chart: Github Stats
 <div align="center">
-  <!--
-  <a href="https://github.com/RodrigoAmora">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark"/>
-  </a>
-  -->
   <a href="https://github.com/RodrigoAmora">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
