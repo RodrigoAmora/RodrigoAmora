@@ -45,6 +45,8 @@ In my free time, I like read books and watch movies and series.
 
   <img align="center" alt="RodrigoAmora-hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
 
+  <img align="center" alt="RodrigoAmora-hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" />
+  
   <img align="center" alt="RodrigoAmora-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   
   <img align="center" alt="RodrigoAmora-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
