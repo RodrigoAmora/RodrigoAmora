@@ -30,15 +30,6 @@ In my free time, I like read books and watch movies and series.
 
 ##
 
-<b> Mobile Development: </b>
-<div style="display: inline_block">
-  <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
-  
-  <img align="center" alt="RodrigoAmora-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
-</div>
-
-##
-
 <b> Frameworks: </b>
 <div style="display: inline_block">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
@@ -58,6 +49,15 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="RodrigoAmora-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
 
   <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
+##
+
+<b> Mobile Development: </b>
+<div style="display: inline_block">
+  <img align="center" alt="RodrigoAmora-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
+  
+  <img align="center" alt="RodrigoAmora-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
 
 ##
@@ -118,6 +118,15 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
 
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
+</div>
+
+##
+
+<b> Operating Systems: </b>
+<div style="display: inline_block">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+
+  <img align="center" alt="macOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
 
 ## 🖖 Where find me
