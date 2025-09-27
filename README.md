@@ -173,14 +173,6 @@ In my free time, I like read books and watch movies and series.
       <img alt="github contribution grid snake animation" src="./profile-3d-contrib/profile-gitblock.svg">
     </picture>
   </p>
-
-  ##
-
-  <b>Visitors:</b>
-  <br>
-  <a href="https://github.com/RodrigoAmora">
-    <img alt="GitHub" src="https://profile-counter.glitch.me/RodrigoAmora/count.svg?"/>
-  </a>
 </div>
 
 <!--
