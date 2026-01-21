@@ -140,19 +140,21 @@ In my free time, I like read books and watch movies and series.
 <div align="center">
   <a href="https://github.com/RodrigoAmora">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=light&include_all_commits=true&count_private=true">
-      <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=light&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=transparent">
+      <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=transparent">
+    </picture>
+  </a>
+  
+  <a href="https://github.com/RodrigoAmora">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&theme=transparent">
+      <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&theme=transparent">
     </picture>
   </a>
 
-  <a href="https://github.com/RodrigoAmora">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=transparent">
-      <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=light">
-    </picture>
-  </a>
+  
 
   ##
 
