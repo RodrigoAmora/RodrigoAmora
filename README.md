@@ -148,8 +148,8 @@ In my free time, I like read books and watch movies and series.
 
   <a href="https://github.com/RodrigoAmora">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=transparent">
       <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&langs_count=6&theme=light">
     </picture>
   </a>
