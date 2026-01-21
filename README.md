@@ -174,9 +174,8 @@ In my free time, I like read books and watch movies and series.
     </picture>
   </p>
 
-  <center>
-    ![](https://komarev.com/ghpvc/?username=RodrigoAmora&style=flat-square)
-  </center>
+  
+  ![](https://komarev.com/ghpvc/?username=RodrigoAmora&style=flat-square)
 </div>
 
 
