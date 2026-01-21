@@ -145,7 +145,7 @@ In my free time, I like read books and watch movies and series.
       <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api?username=RodrigoAmora&show_icons=true&theme=transparent">
     </picture>
   </a>
-  
+
   <a href="https://github.com/RodrigoAmora">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&theme=dark">
@@ -153,8 +153,6 @@ In my free time, I like read books and watch movies and series.
       <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAmora&layout=compact&theme=transparent">
     </picture>
   </a>
-
-  
 
   ##
 
@@ -175,6 +173,10 @@ In my free time, I like read books and watch movies and series.
       <img alt="github contribution grid snake animation" src="./profile-3d-contrib/profile-gitblock.svg">
     </picture>
   </p>
+
+  <center>
+    ![](https://komarev.com/ghpvc/?username=RodrigoAmora&style=flat-square)
+  </center>
 </div>
 
 
