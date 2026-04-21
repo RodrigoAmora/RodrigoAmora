@@ -12,26 +12,22 @@ In my free time, I like read books and watch movies and series.
 
 ## 👨🏽‍💻 Skills
 <b> Languages: </b>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  
-  <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-  
-  <img alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-  
-  <img alt="ObjC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" />
-  
-  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  
-  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<div align="center">
+
+  [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)]()
+  [![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)]()
+  [![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)]()
+  [![ObjC](https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-original.svg)]()
+  [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)]()
+  [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)]()
+  [![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]()
+
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Frameworks: </b>
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="RodrigoAmora-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
   <img align="center" alt="RodrigoAmora-hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
