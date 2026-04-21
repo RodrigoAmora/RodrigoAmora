@@ -102,6 +102,7 @@ In my free time, I like read books and watch movies and series.
     <img align="center" alt="prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />
     <img align="center" alt="grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />
     <img align="center" alt="rabbitmq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
+    <img align="center" alt="rabbitmq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
   </picture>
 </div>
 
