@@ -12,7 +12,7 @@ In my free time, I like read books and watch movies and series.
 
 ## 👨🏽‍💻 Skills
 <b> Languages: </b>
-<div style="display: inline-block">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img align="center" alt="RodrigoAmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   
   <img align="center" alt="RodrigoAmora-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
