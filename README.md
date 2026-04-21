@@ -14,6 +14,21 @@ In my free time, I like read books and watch movies and series.
 <b> Languages: </b>
 <div align="center">
 
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  
+  <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+  
+  <img alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+  
+  <img alt="ObjC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" />
+  
+  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
+  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+
+  <!--
   [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)]()
   [![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)]()
   [![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)]()
@@ -21,6 +36,7 @@ In my free time, I like read books and watch movies and series.
   [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)]()
   [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)]()
   [![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]()
+  -->
 
 </div>
 
@@ -47,7 +63,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Mobile Development: </b>
 <div style="display: inline_block">
@@ -56,7 +72,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="RodrigoAmora-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Databases: </b>
 <div style="display: inline_block">
@@ -69,7 +85,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Tools: </b>
 <div style="display: inline_block">
@@ -88,7 +104,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="Rodrigo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Devops: </b>
 <div style="display: inline_block">
@@ -109,7 +125,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="rabbitmq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Cloud: </b>
 <div style="display: inline_block">
@@ -118,7 +134,7 @@ In my free time, I like read books and watch movies and series.
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b> Operating Systems: </b>
 <div style="display: inline_block">
@@ -126,6 +142,8 @@ In my free time, I like read books and watch movies and series.
 
   <img align="center" alt="macOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖖 Where find me
 <div> 
