@@ -13,6 +13,7 @@ In my free time, I like read books and watch movies and series.
 ## 👨🏽‍💻 Skills
 <b> Languages: </b>
 <div align="center">
+  <picture>
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <img alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
@@ -20,7 +21,7 @@ In my free time, I like read books and watch movies and series.
   <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-
+  </picture>
   <!--
   [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)]()
   [![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)]()
