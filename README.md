@@ -113,7 +113,7 @@ In my free time, I like read books and watch movies and series.
 <b> Cloud: </b>
 <div align="center">
   <picture>
-    <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" />
+    <img align="center" alt="AWS" height="30" width="40" src="https://camo.githubusercontent.com/98ba25ea5ebb17acd4f943684a475866edeae87b6dd6900fd350ca10167cd070/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6c696e652d776f72646d61726b2e737667" />
     <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
   </picture>
 </div>
