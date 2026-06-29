@@ -126,7 +126,7 @@ In my free time, I like read books and watch movies and series.
 <div align="center">
   <picture>
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" alt="macOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" layout="background-color: #2ecc71;" />
+    <img align="center" alt="macOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
   </picture>
 </div>
 
